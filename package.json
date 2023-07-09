@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest --watch",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d .next"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
